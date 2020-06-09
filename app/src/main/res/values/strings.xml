@@ -1,0 +1,369 @@
+<resources>
+    <string name="app_name">NaukaAngielskiego</string>
+    <string name="modeTest">Tryb: TEST</string>
+    <string name="modeLearn">Tryb: NAUKA</string>
+    <string name="alertMessage">Czy chcesz zakończyć?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="ok">Ok</string>
+    <string name="about">O aplikacji</string>
+    <string name="score_is">Twój wynik to:</string>
+    <string name="back">Powrót</string>
+    <string name="next">Następne</string>
+    <string name="mode">Tryb</string>
+    <string name="activity_main_title">Witaj w aplikacji do nauki języka angielskiego</string>
+    <string name="activity_main_what_language">W jakim języku mają się pojawiać słówka do przetłumaczenia?</string>
+    <string name="polish">Polski</string>
+    <string name="english">Angielski</string>
+    <string name="select_mode">Wybierz tryb działania aplikacji</string>
+    <string name="learn">Nauka</string>
+    <string name="test">Test</string>
+    <string name="begin">Rozpocznij</string>
+
+    <string-array name="englishWords">
+        <item>izzy drinks</item>
+        <item>still water</item>
+        <item>sparkling water</item>
+        <item>pasta</item>
+        <item>garlic</item>
+        <item>mushrooms</item>
+        <item>sausage</item>
+        <item>dairy product</item>
+        <item>herbs and spices</item>
+        <item>pork</item>
+        <item>lamb</item>
+        <item>leek</item>
+        <item>cream</item>
+        <item>pineapple</item>
+        <item>scrambled eggs</item>
+        <item>soft-boiled eggs</item>
+        <item>omlette</item>
+        <item>egg mayonnaise</item>
+        <item>bacon and eggs</item>
+        <item>tinned ham</item>
+        <item>roast turkey</item>
+        <item>pork chops</item>
+        <item>boiled chicken</item>
+        <item>roast beef</item>
+        <item>fried cod</item>
+        <item>coleslaw</item>
+        <item>prawn cocktail</item>
+        <item>broccoli</item>
+        <item>baked salmon</item>
+        <item>pizza Quattro Stagioni</item>
+        <item>chop</item>
+        <item>peel</item>
+        <item>fry</item>
+        <item>boil</item>
+        <item>bake</item>
+        <item>roast</item>
+        <item>grate</item>
+        <item>slice</item>
+        <item>stew</item>
+        <item>apple pie</item>
+        <item>boiled potatoes</item>
+        <item>chips</item>
+        <item>potatoes crips</item>
+        <item>mild</item>
+        <item>spicy</item>
+        <item>redcurrant</item>
+        <item>blackcurrant</item>
+        <item>gooseberry</item>
+        <item>grape</item>
+        <item>blueberry</item>
+        <item>bilberry</item>
+        <item>cranberry</item>
+        <item>raspberry</item>
+        <item>blackberry</item>
+        <item>strawberry</item>
+        <item>wild strawberry</item>
+        <item>plum</item>
+        <item>peach</item>
+        <item>nectarine</item>
+        <item>apricot</item>
+        <item>cherry</item>
+        <item>date</item>
+        <item>pear</item>
+        <item>quince</item>
+        <item>apple</item>
+        <item>lemon</item>
+        <item>lime</item>
+        <item>orange</item>
+        <item>grapefruit</item>
+        <item>honeydrew melon</item>
+        <item>watermelon</item>
+        <item>banana</item>
+        <item>fig</item>
+        <item>pomegranate</item>
+        <item>kiwi</item>
+        <item>passion fruit</item>
+        <item>prickly pear</item>
+        <item>lychee/litchi</item>
+        <item>carambola</item>
+        <item>pineaple</item>
+        <item>mango</item>
+        <item>papaya</item>
+        <item>tangerine</item>
+        <item>rhubarb</item>
+        <item>raisin</item>
+        <item>cherry plum</item>
+        <item>dried fruits</item>
+        <item>prune</item>
+        <item>citrus fruits</item>
+        <item>tropical fruits</item>
+        <item>berries</item>
+        <item>stone fruits</item>
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>wednesday</item>
+        <item>thursday</item>
+        <item>friday</item>
+        <item>saturday</item>
+        <item>sunday</item>
+        <item>season</item>
+        <item>spring</item>
+        <item>autumn</item>
+        <item>summer</item>
+        <item>winter</item>
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+        <item>body</item>
+        <item>bone</item>
+        <item>skin</item>
+        <item>blood</item>
+        <item>heart</item>
+        <item>lung</item>
+        <item>stomach</item>
+        <item>brain</item>
+        <item>head</item>
+        <item>hair</item>
+        <item>ear</item>
+        <item>face</item>
+        <item>forehead</item>
+        <item>eye</item>
+        <item>nose</item>
+        <item>cheek</item>
+        <item>mouth</item>
+        <item>lip</item>
+        <item>tongue</item>
+        <item>tooth</item>
+        <item>teeth</item>
+        <item>chin</item>
+        <item>beard</item>
+        <item>throat</item>
+        <item>neck</item>
+        <item>shoulder</item>
+        <item>hand</item>
+        <item>arm</item>
+        <item>elbow</item>
+        <item>finger</item>
+        <item>nail</item>
+        <item>chest</item>
+        <item>breast</item>
+        <item>back</item>
+        <item>leg</item>
+        <item>knee</item>
+        <item>foot</item>
+        <item>feet</item>
+        <item>toe</item>
+        <item>heel</item>
+        <item>muscle</item>
+        <item>vein</item>
+        <item>liver</item>
+        <item>kidney</item>
+        <item>rib</item>
+        <item>ankle</item>
+        <item>thumb</item>
+        <item>wrist</item>
+        <item>hip</item>
+        <item>waist</item>
+        <item>buttocks</item>
+        <item>eyelid</item>
+        <item>eyelash</item>
+        <item>eyebrow</item>
+        <item>moustache</item>
+    </string-array>
+    <string-array name="polishWords">
+        <item>napoje gazowane</item>
+        <item>niegazowana woda</item>
+        <item>gazowana woda</item>
+        <item>makaron</item>
+        <item>czosnek</item>
+        <item>grzyby</item>
+        <item>kiełbaski</item>
+        <item>nabiał</item>
+        <item>zioła i przyprawy</item>
+        <item>wieprzowina</item>
+        <item>jagnięcina</item>
+        <item>por</item>
+        <item>śmietana</item>
+        <item>ananas</item>
+        <item>jajecznica</item>
+        <item>jajka na mięko</item>
+        <item>omlet</item>
+        <item>majonez</item>
+        <item>bekon z jajkami</item>
+        <item>szynka konserwowana</item>
+        <item>pieczony indyk</item>
+        <item>kotlety</item>
+        <item>gotowany kurczak</item>
+        <item>pieczona wołowina</item>
+        <item>pieczony dorsz</item>
+        <item>sałatka</item>
+        <item>koktail z krewetek</item>
+        <item>brokuły</item>
+        <item>pieczony łosoś</item>
+        <item>pizza 4pory roku</item>
+        <item>siekać/kroić</item>
+        <item>obierać</item>
+        <item>smażyć</item>
+        <item>gotować</item>
+        <item>piec w piekarniku</item>
+        <item>piec</item>
+        <item>trzeć na tarce</item>
+        <item>kroić w plasterki</item>
+        <item>dusić</item>
+        <item>szarlotka</item>
+        <item>gotowane ziemniaki</item>
+        <item>frytki</item>
+        <item>chipsy</item>
+        <item>łagodne</item>
+        <item>ostre</item>
+        <item>porzeczka czerwona</item>
+        <item>porzeczka czarna</item>
+        <item>agrest</item>
+        <item>winogrono</item>
+        <item>jagoda czarna</item>
+        <item>borówka czarna</item>
+        <item>żurawina</item>
+        <item>malina</item>
+        <item>jeżyna</item>
+        <item>truskawka</item>
+        <item>poziomka</item>
+        <item>śliwka</item>
+        <item>brzozkwinia</item>
+        <item>nektaryna</item>
+        <item>morela</item>
+        <item>wiśnia</item>
+        <item>daktyl</item>
+        <item>gruszka</item>
+        <item>pigwa</item>
+        <item>jabłko</item>
+        <item>cytryna</item>
+        <item>limonka</item>
+        <item>pomarańcza</item>
+        <item>grejfrut</item>
+        <item>melon miodowy</item>
+        <item>arbuz</item>
+        <item>banan</item>
+        <item>figa</item>
+        <item>granat</item>
+        <item>kiwi</item>
+        <item>marakuja</item>
+        <item>opuncja</item>
+        <item>liczi</item>
+        <item>karambola</item>
+        <item>ananas</item>
+        <item>mango</item>
+        <item>papaja</item>
+        <item>mandarynka</item>
+        <item>rabarbar</item>
+        <item>rodzynki</item>
+        <item>mirabelka</item>
+        <item>owoce suszone</item>
+        <item>śliwki suszone</item>
+        <item>owoce cytrusowe</item>
+        <item>owoce tropikalne</item>
+        <item>owoce jagodowe</item>
+        <item>owoce pestkowe</item>
+        <item>poniedziałek</item>
+        <item>wtorek</item>
+        <item>środa</item>
+        <item>czwartek</item>
+        <item>piątek</item>
+        <item>sobota</item>
+        <item>niedziela</item>
+        <item>pora roku</item>
+        <item>wiosna</item>
+        <item>jesień</item>
+        <item>lato</item>
+        <item>zima</item>
+        <item>styczeń</item>
+        <item>luty</item>
+        <item>marzec</item>
+        <item>kwiecień</item>
+        <item>maj</item>
+        <item>czerwiec</item>
+        <item>lipiec</item>
+        <item>sierpień</item>
+        <item>wrzesień</item>
+        <item>październik</item>
+        <item>listopad</item>
+        <item>grudzień</item>
+        <item>ciało</item>
+        <item>kość</item>
+        <item>skóra</item>
+        <item>krew</item>
+        <item>serce</item>
+        <item>płuco</item>
+        <item>żołądek</item>
+        <item>mózg</item>
+        <item>głowa</item>
+        <item>włosy</item>
+        <item>ucho</item>
+        <item>twarz</item>
+        <item>czoło</item>
+        <item>oko</item>
+        <item>nos</item>
+        <item>policzek</item>
+        <item>usta</item>
+        <item>warga</item>
+        <item>język</item>
+        <item>ząb</item>
+        <item>zęby</item>
+        <item>podbródek</item>
+        <item>broda u mężczyzny</item>
+        <item>gardło</item>
+        <item>szyja</item>
+        <item>bark</item>
+        <item>ręka</item>
+        <item>ramię</item>
+        <item>łokieć</item>
+        <item>palec ręki</item>
+        <item>paznokieć</item>
+        <item>klatka piersiowa</item>
+        <item>pierś</item>
+        <item>plecy</item>
+        <item>noga</item>
+        <item>kolano</item>
+        <item>stopa</item>
+        <item>stopy</item>
+        <item>palec stopy</item>
+        <item>pięta</item>
+        <item>mięsień</item>
+        <item>żyła</item>
+        <item>wątroba</item>
+        <item>nerka</item>
+        <item>żebro</item>
+        <item>kostka</item>
+        <item>kciuk</item>
+        <item>nadgarstek</item>
+        <item>biodro</item>
+        <item>talia</item>
+        <item>pośladki</item>
+        <item>powieka</item>
+        <item>rzęsa</item>
+        <item>brew</item>
+        <item>wąsy</item>
+    </string-array>
+</resources>
